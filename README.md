@@ -14,6 +14,25 @@
 
 <br>
 
+## 📈 My GitHub Activity, Live
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hrshvrdhnsnghchauhan-sys&theme=tokyo-night&hide_border=true&area=true&custom_title=Harsh's%20Contribution%20Activity" width="100%" />
+</div>
+
+<br>
+
+## 🏆 Trophy Room
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=hrshvrdhnsnghchauhan-sys&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" />
+</div>
+
+<sub align="center">👆 These update live off my real GitHub activity — no manual editing, ever.</sub>
+
+<br>
+<br>
+
 ## 👋 About Me
 
 I'm a **B.Tech Computer Science student in India**, building at the intersection of **product, AI, and entrepreneurship**. Right now I'm the founder of **SaathiX**, an AI platform for India's MSME sector — alongside a handful of side projects where I sharpen frontend and full-stack skills.
