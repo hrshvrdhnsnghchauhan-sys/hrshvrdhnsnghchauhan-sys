@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, HarshVardhan Singh Chauhan</h1>
+<p align="center">
+  <img src="./assets/banner.png" alt="banner" width="100%"/>
+</p>
+
+<h1 align="center">Hi 👋, Imma Shady</h1>
 <h3 align="center">Backend Developer</h3>
 
 <p align="center">
@@ -13,6 +17,8 @@
 
 ## 🚀 About Me
 
+<img src="./assets/avatar.png" width="260" align="right"/>
+
 **Shaddy**, Here — a final-year Computer Engineering student focused on backend development.
 
 I enjoy building scalable, production-ready APIs with Python and continuously improving my understanding of real-world backend systems.
@@ -20,6 +26,8 @@ I enjoy building scalable, production-ready APIs with Python and continuously im
 Currently, I'm learning **FastAPI, PostgreSQL, SQLAlchemy, Docker, and Redis**, while sharpening my problem-solving skills through **Data Structures & Algorithms**.
 
 My goal is simple: write clean code, build reliable software, and grow into a software engineer who creates systems that last.
+
+<br clear="right"/>
 
 <hr>
 
