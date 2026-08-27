@@ -1,48 +1,123 @@
-<h1 align="center">Hi there, I'm Harshvardhan Singh Chauhan 👋</h1>
-<h3 align="center">CS Engineering Student @ PW IOI | Full-Stack Developer | AI & Automation Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  I am a passionate developer focused on building scalable SaaS platforms, AI-driven automation tools, and intuitive web interfaces. From crafting complex full-stack architectures to solving Data Structures and Algorithms, I love turning ideas into impactful tech products.
-</p>
+```
+ _   _   _   ____    ____    _   _
+| | | | | | | ___|  / ___|  | | | |
+| |_| | | | |___ \  \___ \  | |_| |
+|  _  | | |  ___) |  ___) | |  _  |
+|_| |_| |_| |____/  |____/  |_| |_|
+```
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Harsh+Vardhan+Singh+Chauhan;B.Tech+CS+Student+%7C+India;Building+AI+Products+for+Real+Problems;Founder+%40+SaathiX" alt="Typing SVG" />
 
-## 🚀 About Me
+</div>
 
-- 🎓 **Education:** Pursuing B.Tech in Computer Science Engineering at PW Institute of Innovation.
-- 💻 **Core Focus:** Full-Stack Web Development, Agentic AI, and Serverless Architectures.
-- 🧠 **Problem Solving:** Actively practicing Data Structures & Algorithms in **C++** and **Java**.
-- 🛠️ **Current Vibe:** Exploring touchless interaction systems, voice AI agents, and crafting dark, minimalist UIs.
+<br>
 
----
+```bash
+harsh@dev:~$ whoami
+```
 
-## 💻 Tech Stack & Tools
+```yaml
+> role:        B.Tech Computer Science Student (India)
+> focus:       AI/ML products, full-stack systems, entrepreneurship
+> currently:   Building SaathiX — AI "digital employee" for Indian MSMEs
+> mission:     Ship real products, not just prototypes
+```
 
-**Languages:**  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<br>
 
-**Frontend:**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) 
+```bash
+harsh@dev:~$ cat projects.log
+```
 
-**Backend, DB & Cloud:**  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Stack</th>
+</tr>
+<tr>
+<td><b>🤖 SaathiX</b></td>
+<td>AI-powered autonomous "digital employee" platform for Indian MSMEs</td>
+<td>AI/ML, Automation</td>
+</tr>
+<tr>
+<td><b>🛍️ NovaCart AI</b></td>
+<td>AI-powered e-commerce SaaS platform (MVP in progress)</td>
+<td>Full-stack, AI</td>
+</tr>
+<tr>
+<td><b>💄 GlowCart</b></td>
+<td>Premium e-commerce platform — beauty, fashion & lifestyle</td>
+<td>Full-stack</td>
+</tr>
+<tr>
+<td><b>📄 AI Resume Builder</b></td>
+<td>Two-role (candidate/company) AI hiring SaaS platform</td>
+<td>AI/ML, SaaS</td>
+</tr>
+<tr>
+<td><b>🍛 Homemade Food D2C</b></td>
+<td>AI-powered D2C platform for traditional Indian food products</td>
+<td>AI/ML, E-commerce</td>
+</tr>
+</table>
 
-**AI & Libraries:**  
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+<br>
 
----
+```bash
+harsh@dev:~$ ./run_stack.sh
+```
 
-## 🏆 Featured Projects
+<div align="center">
 
-*   **SaathiX (AutoSaathi):** An agentic AI platform designed to automate workflow management, compliance, and payment recovery for MSMEs.
-*   **VanitraAI Resume:** A full-stack AI-powered resume analyzer and ATS optimization SaaS built with React, TypeScript, and Firebase.
-*   **Aayu Care / AayuOS:** An outbound voice agent (integrated with CALL-E API) and independent voice-controlled OS concept tailored for senior citizen healthcare.
-*   **Fast Pay:** A fintech architecture designed to facilitate ultra-fast cross-border payments.
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js)
+![AI/ML](https://img.shields.io/badge/-AI%2FML-000000?style=for-the-badge&logo=tensorflow)
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git)
 
----
+</div>
 
-## 📈 GitHub Stats
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=58A6FF" alt="GitHub Stats" />
-</p>
+```bash
+harsh@dev:~$ curl stats.github.com/HarshVardhanSinghChauhan
+```
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=HarshVardhanSinghChauhan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshVardhanSinghChauhan&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshVardhanSinghChauhan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" width="48%" />
+
+</div>
+
+<br>
+
+```bash
+harsh@dev:~$ cat connect.txt
+```
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x)](https://twitter.com/YOUR-TWITTER)
+[![Gmail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail)](mailto:YOUR-EMAIL)
+
+</div>
+
+<br>
+
+<div align="center">
+
+```bash
+harsh@dev:~$ echo "Thanks for stopping by. Now go build something."
+```
+
+<img src="https://komarev.com/ghpvc/?username=HarshVardhanSinghChauhan&color=00FF41&style=flat-square&label=PROFILE+VIEWS" />
+
+</div>
